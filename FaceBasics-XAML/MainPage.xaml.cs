@@ -63,7 +63,7 @@ namespace Microsoft.Samples.Kinect.FaceBasics
         private int bodyCount;
 
         /// <summary>
-        /// Face フレームの配列が格納されます。
+        /// Face フレームの配列が格納されるフィールドです。
         /// </summary>
         private FaceFrameSource faceFrameSource = null;
         /// <summary>
@@ -164,7 +164,10 @@ namespace Microsoft.Samples.Kinect.FaceBasics
             yawD = Math.Asin(2 * ((w * y) - (x * z))) / Math.PI * 180.0;
             rollD = Math.Atan2(2 * ((x * y) + (w * z)), (w * w) + (x * x) - (y * y) - (z * z)) / Math.PI * 180.0;
 
-            // 角軸に対する回転度合を求める。
+            // 各軸に対する回転度合を求めます。
+            // Pitch : X軸角、
+            // Yaw   : Y軸角、
+            // Roll  : Z軸角、 
             double increment = FaceRotationIncrementInDegrees;
             pitch = (int)(Math.Floor((pitchD + ((increment / 2.0) * (pitchD > 0 ? 1.0 : -1.0))) / increment) * increment);
             yaw = (int)(Math.Floor((yawD + ((increment / 2.0) * (yawD > 0 ? 1.0 : -1.0))) / increment) * increment);
