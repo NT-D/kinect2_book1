@@ -1,1 +1,0 @@
-C:\Users\masota\Documents\GitHub\kinectv2book\FirstKinectSampleColor\FirstKinectSample\FirstKinectSample.csproj;x86

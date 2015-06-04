@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>SHURFACE3</Machine>
-    <WindowsUser>Shuhei</WindowsUser>
+    <Machine>MASA-WIN81</Machine>
+    <WindowsUser>masot_000</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|x64</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>62b06cb0-593a-45ed-b8ab-f71b37c21fd5</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\obj\x64\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>2123A8EEC7A1DE36CC13A588B8F3D72009D79B75534C6670B05DEF181EEEE0EE</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>62b06cb0-593a-45ed-b8ab-f71b37c21fd5_1.0.0.0_x64__9fc6r6gc5hgxg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>62b06cb0-593a-45ed-b8ab-f71b37c21fd5_9fc6r6gc5hgxg!App</RegisteredUserModeAppID>
@@ -17,74 +17,74 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\bin\x64\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\bin\x64\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-04T08:28:25.703</Modified>
+      <Modified>2015-06-04T12:52:31.989</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\bin\x64\Debug\DepthBasics-XAML.exe">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\bin\x64\Debug\DepthBasics-XAML.exe">
       <PackagePath>DepthBasics-XAML.exe</PackagePath>
-      <Modified>2015-04-15T12:20:57.696</Modified>
+      <Modified>2015-06-04T13:44:59.514</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-04T08:22:33.821</Modified>
+      <Modified>2015-06-04T12:52:31.835</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\Assets\SmallLogo.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-04T08:22:33.821</Modified>
+      <Modified>2015-06-04T12:52:31.840</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-04T08:22:33.821</Modified>
+      <Modified>2015-06-04T12:52:31.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\Assets\SplashScreen.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\Assets\SplashScreen.scale-140.png">
       <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-04T08:22:33.822</Modified>
+      <Modified>2015-06-04T12:52:31.852</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\Assets\SplashScreen.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\Assets\SplashScreen.scale-180.png">
       <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-04T08:22:33.823</Modified>
+      <Modified>2015-06-04T12:52:31.858</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-04T08:22:33.823</Modified>
+      <Modified>2015-06-04T12:52:31.864</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\Images\Logo.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\Images\Logo.png">
       <PackagePath>Images\Logo.png</PackagePath>
-      <Modified>2015-04-04T08:22:33.832</Modified>
+      <Modified>2015-06-04T12:52:31.908</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\Images\Status.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\Images\Status.png">
       <PackagePath>Images\Status.png</PackagePath>
-      <Modified>2015-04-04T08:22:33.833</Modified>
+      <Modified>2015-06-04T12:52:31.911</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\Images\Kinect.ico">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\Images\Kinect.ico">
       <PackagePath>Images\Kinect.ico</PackagePath>
-      <Modified>2015-04-04T08:22:33.832</Modified>
+      <Modified>2015-06-04T12:52:31.905</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\bin\x64\Debug\App.xaml">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\bin\x64\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
-      <Modified>2015-04-04T08:22:33.819</Modified>
+      <Modified>2015-06-04T12:52:31.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\bin\x64\Debug\Common\StandardStyles.xaml">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\bin\x64\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
-      <Modified>2015-04-04T08:22:33.827</Modified>
+      <Modified>2015-06-04T12:52:31.882</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\bin\x64\Debug\MainPage.xaml">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\bin\x64\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2015-04-04T08:22:33.834</Modified>
+      <Modified>2015-06-04T12:52:31.915</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Shuhei\Desktop\kinectv2book\DepthBasics-XAML\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\DepthBasics-XAML\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-04-04T08:28:25.534</Modified>
+      <Modified>2015-06-04T13:44:59.719</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

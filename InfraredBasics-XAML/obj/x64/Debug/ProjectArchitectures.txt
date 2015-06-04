@@ -1,1 +1,0 @@
-C:\Users\Shuhei\Desktop\kinectv2book\InfraredBasics-XAML\InfraredBasics-XAML.csproj;x64

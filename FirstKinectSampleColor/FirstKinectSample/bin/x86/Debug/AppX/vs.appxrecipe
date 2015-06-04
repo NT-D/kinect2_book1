@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>masurface</Machine>
-    <WindowsUser>masota</WindowsUser>
+    <Machine>MASA-WIN81</Machine>
+    <WindowsUser>masot_000</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>149184d3-4ac2-4ee0-b06b-c0e65ca0d964</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\masota\Documents\GitHub\kinectv2book\FirstKinectSampleColor\FirstKinectSample\obj\x86\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>C33CE675DB33E120272BF6816492A6BAB7C8496579DBF971B98B43F3D61DB8FE</RegisteredManifestChecksum>
+    <IntermediateOutputPath>C:\Users\masot_000\Documents\GitHub\kinect2_book1\FirstKinectSampleColor\FirstKinectSample\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5176B7599177A487A4093ED039E55BDA129E6A4FE705684CA7C64AFBD0B3F998</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>149184d3-4ac2-4ee0-b06b-c0e65ca0d964_1.0.0.0_x86__jx0samqcxrwym</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>149184d3-4ac2-4ee0-b06b-c0e65ca0d964_jx0samqcxrwym!App</RegisteredUserModeAppID>
     <RegisteredPackageID>149184d3-4ac2-4ee0-b06b-c0e65ca0d964</RegisteredPackageID>
@@ -17,52 +17,52 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\masota\Documents\GitHub\kinectv2book\FirstKinectSampleColor\FirstKinectSample\bin\x86\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\FirstKinectSampleColor\FirstKinectSample\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-23T14:05:26.092</Modified>
+      <Modified>2015-06-04T13:36:23.231</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\masota\Documents\GitHub\kinectv2book\FirstKinectSampleColor\FirstKinectSample\bin\x86\Debug\FirstKinectSample.exe">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\FirstKinectSampleColor\FirstKinectSample\bin\x86\Debug\FirstKinectSample.exe">
       <PackagePath>FirstKinectSample.exe</PackagePath>
-      <Modified>2015-04-04T11:41:21.459</Modified>
+      <Modified>2015-06-04T13:36:23.030</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masota\Documents\GitHub\kinectv2book\FirstKinectSampleColor\FirstKinectSample\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\FirstKinectSampleColor\FirstKinectSample\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-07-30T23:01:28.000</Modified>
+      <Modified>2015-05-31T06:54:25.903</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masota\Documents\GitHub\kinectv2book\FirstKinectSampleColor\FirstKinectSample\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\FirstKinectSampleColor\FirstKinectSample\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-07-30T23:01:28.000</Modified>
+      <Modified>2015-05-31T06:54:25.903</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masota\Documents\GitHub\kinectv2book\FirstKinectSampleColor\FirstKinectSample\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\FirstKinectSampleColor\FirstKinectSample\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-07-30T23:01:28.000</Modified>
+      <Modified>2015-05-31T06:54:25.904</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masota\Documents\GitHub\kinectv2book\FirstKinectSampleColor\FirstKinectSample\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\FirstKinectSampleColor\FirstKinectSample\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-07-30T23:01:28.000</Modified>
+      <Modified>2015-05-31T06:54:25.905</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masota\Documents\GitHub\kinectv2book\FirstKinectSampleColor\FirstKinectSample\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\FirstKinectSampleColor\FirstKinectSample\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2015-03-23T13:23:45.758</Modified>
+      <Modified>2015-06-04T13:36:22.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masota\Documents\GitHub\kinectv2book\FirstKinectSampleColor\FirstKinectSample\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\FirstKinectSampleColor\FirstKinectSample\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2015-04-04T11:01:19.574</Modified>
+      <Modified>2015-06-04T13:36:22.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masota\Documents\GitHub\kinectv2book\FirstKinectSampleColor\FirstKinectSample\bin\x86\Debug\FirstKinectSample.xr.xml">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\FirstKinectSampleColor\FirstKinectSample\bin\x86\Debug\FirstKinectSample.xr.xml">
       <PackagePath>FirstKinectSample.xr.xml</PackagePath>
-      <Modified>2015-04-04T11:01:19.135</Modified>
+      <Modified>2015-05-31T06:54:26.010</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masota\Documents\GitHub\kinectv2book\FirstKinectSampleColor\FirstKinectSample\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\FirstKinectSampleColor\FirstKinectSample\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-03-23T14:05:25.795</Modified>
+      <Modified>2015-06-04T13:36:23.115</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

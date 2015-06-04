@@ -1,1 +1,0 @@
-C:\Users\masot_000\documents\visual studio 2013\Projects\KinectBody\KinectBody\KinectBody.csproj;x86

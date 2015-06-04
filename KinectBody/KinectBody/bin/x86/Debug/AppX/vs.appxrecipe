@@ -7,7 +7,7 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>7555cba1-bc1f-4b18-8ef8-520156c1a793</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\masot_000\documents\visual studio 2013\Projects\KinectBody\KinectBody\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\masot_000\Documents\GitHub\kinect2_book1\KinectBody\KinectBody\obj\x86\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>8AD50EE323220A8AF6FDE1A21395EB264F99E24992A6FE4B18455B046A05774E</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>7555cba1-bc1f-4b18-8ef8-520156c1a793_1.0.0.0_x86__34mhyvwew1048</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>7555cba1-bc1f-4b18-8ef8-520156c1a793_34mhyvwew1048!App</RegisteredUserModeAppID>
@@ -17,50 +17,50 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\masot_000\documents\visual studio 2013\Projects\KinectBody\KinectBody\bin\x86\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\KinectBody\KinectBody\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-06-01T14:55:07.812</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\masot_000\documents\visual studio 2013\Projects\KinectBody\KinectBody\bin\x86\Debug\KinectBody.exe">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\KinectBody\KinectBody\bin\x86\Debug\KinectBody.exe">
       <PackagePath>KinectBody.exe</PackagePath>
-      <Modified>2015-06-01T22:58:29.336</Modified>
+      <Modified>2015-06-04T13:57:34.555</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masot_000\documents\visual studio 2013\Projects\KinectBody\KinectBody\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\KinectBody\KinectBody\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-30T23:01:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masot_000\documents\visual studio 2013\Projects\KinectBody\KinectBody\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\KinectBody\KinectBody\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-30T23:01:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masot_000\documents\visual studio 2013\Projects\KinectBody\KinectBody\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\KinectBody\KinectBody\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-30T23:01:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masot_000\documents\visual studio 2013\Projects\KinectBody\KinectBody\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\KinectBody\KinectBody\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-30T23:01:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masot_000\documents\visual studio 2013\Projects\KinectBody\KinectBody\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\KinectBody\KinectBody\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
       <Modified>2015-06-01T14:55:07.140</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masot_000\documents\visual studio 2013\Projects\KinectBody\KinectBody\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\KinectBody\KinectBody\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
       <Modified>2015-06-01T14:55:07.142</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masot_000\documents\visual studio 2013\Projects\KinectBody\KinectBody\bin\x86\Debug\KinectBody.xr.xml">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\KinectBody\KinectBody\bin\x86\Debug\KinectBody.xr.xml">
       <PackagePath>KinectBody.xr.xml</PackagePath>
       <Modified>2015-06-01T14:55:07.044</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\masot_000\documents\visual studio 2013\Projects\KinectBody\KinectBody\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\GitHub\kinect2_book1\KinectBody\KinectBody\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2015-06-01T14:55:07.595</Modified>
     </AppxPackagedFile>

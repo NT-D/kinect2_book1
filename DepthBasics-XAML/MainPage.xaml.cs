@@ -175,7 +175,7 @@ namespace Microsoft.Samples.Kinect.DepthBasics
                 // 到着したフレームが存在する場合に処理を継続します。
                 if (depthFrame != null)
                 {
-                    // 深度フレームを読み込むための Reader を開きます。                    
+                    // 深度フレームの情報を読み込みます(縦横サイズなどが格納されています。)              
                     FrameDescription depthFrameDescription = depthFrame.FrameDescription;
 
                     // 到着した深度フレームのサイズ縦横のサイズと、用意した depthFrameDescription が持つ縦横比が一致しているか確認します。

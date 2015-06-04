@@ -13,7 +13,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 using WindowsPreview.Kinect;
-using System.Diagnostics;//Consoleを使用して情報を出力するために追加
+using System.Diagnostics;//[出力]ウィンドウを使用して情報を出力するために追加
 
 // 空白ページのアイテム テンプレートについては、http://go.microsoft.com/fwlink/?LinkId=234238 を参照してください
 
